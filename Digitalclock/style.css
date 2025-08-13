@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.clock {
+  color: #00ff66;
+  font-size: 8rem;
+  text-shadow:  0 0 4px #00ff66,   0 0 8px #00ff66;
+}
